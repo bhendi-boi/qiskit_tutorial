@@ -50,3 +50,11 @@
     Qiskit IBM runtim version =  0.34.0
     Qiskit Aer version =  0.15.1
 ```
+
+## Sample Notebooks
+
+- After you are done with the installation, open you can open sample notebooks provided.
+- [Create Quantum circuit in qiskit](create_qc.ipynb)
+- [Simulate Quantum circuit in qiskit](simulate_qc.ipynb)
+- [State Vectors in qiskit](state_vector.ipynb)
+- [Run your ckts on IBM's QPUs](run_qc.ipynb)
