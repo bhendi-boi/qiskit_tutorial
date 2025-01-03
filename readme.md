@@ -43,3 +43,10 @@
 ## Check installation
 
 - Run [test.py](test.py) file to check whether your installation is done perfectly.
+- You should see output similar to this.
+
+```bash
+    Qiskit version =  1.3.1
+    Qiskit IBM runtim version =  0.34.0
+    Qiskit Aer version =  0.15.1
+```
