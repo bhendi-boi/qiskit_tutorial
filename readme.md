@@ -56,7 +56,15 @@ If you run into any issues here, refer to [this website](https://superuser.com/q
     Qiskit Aer version =  0.15.1
 ```
 
-If you get this output, you are ready for the session.
+If you get this output, you are done with the installation.
+
+## Create an IBM Account
+
+- Visit [this website](https://quantum.ibm.com/) and create an account.
+- Then, copy the API key and store it in file named secrets.txt in the present working folder.
+  ![images/ibm_1.png](images/ibm_1.png)
+
+Now you are ready for the session.
 
 ## Sample Notebooks
 
