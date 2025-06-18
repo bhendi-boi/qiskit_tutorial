@@ -24,15 +24,12 @@ We recommend you do this before attending the session.
   ![images/change_to_powershell_1.png](images/change_to_powershell_1.png)
   ![images/change_to_powershell_2.png](images/change_to_powershell_2.png)
 - Once you have changed it to powershell, you will see `Powershell` instead of `cmd`.
-- I have created a virtual environment beforehand. Activate it by running this command in the terminal.
-
-```
-    venv/Scripts/Activate.ps1
-```
+- Create a python virtual environment and activate it. Refer to [this website](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/) for more info.
 
 If you run into any issues here, refer to [this website](https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts).
 
-![images/activate_venv.png](images/activate_venv.png)
+- After creating and activating a virtual environment, you will see something similar to this in your powershell window. DO NOT CLOSE THIS POWERSHELL WINDOW.
+  ![images/activate_venv.png](images/activate_venv.png)
 
 - Run this command in the same powershell window to start downloading required packages.
 
